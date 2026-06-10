@@ -7,7 +7,14 @@ On the following pages I have documented our setup. From a simple step to get in
 <br>
 
 ## ⚡ Energy and Solar ☀️
-<a href="https://github.com/Naaf3/Energy-and-Solar/blob/main/README.md">Our battery and solar setup and how it is installed.</a>
+<a href="https://github.com/Naaf3/Energy-and-Solar/blob/main/README.md">Our battery and solar setup and how it is installed</a>
+<br>
+<br>
+<br>
+<br>
+
+## 🌐 Internet and Wifi 🛜
+<a href="https://github.com/Naaf3/Internet_and_Wifi/edit/main/README.md">5G Router and antenna</a>
 <br>
 <br>
 <br>
