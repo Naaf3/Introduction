@@ -1,6 +1,25 @@
 # Introduction
 
-More about Alfred the smart Campervan is coming soon! 😊
+Alfred is 2021 Clever Celebration campervan based on a Fiat Ducato.
+
+On the following pages I have documented our setup. From a simple step to get in bed easier to our smartcamper system based on Home Assistant.
+<br>
+<br>
+
+## ⚡ Energy and Solar ☀️
+<a href="https://github.com/Naaf3/Energy-and-Solar/blob/main/README.md">Our battery and solar setup and how it is installed.</a>
+<br>
+<br>
+<br>
+<br>
+
+## 💻 The SmartCamper 🔗
+
+<a href="https://github.com/Naaf3/SmartCube/blob/main/README.md">The SmartCube</a>
+<br>
+<br>
+<br>
+<br>
 
 If you like my work and want to support me:
 
