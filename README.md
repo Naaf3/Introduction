@@ -14,7 +14,7 @@ On the following pages I have documented our setup. From a simple step to get in
 <br>
 
 ## 🌐 Internet and Wifi 🛜
-<a href="https://github.com/Naaf3/Internet_and_Wifi/edit/main/README.md">5G Router and antenna</a>
+<a href="https://github.com/Naaf3/Internet_and_Wifi/edit/main/README.md">5G router and antenna</a>
 <br>
 <br>
 <br>
