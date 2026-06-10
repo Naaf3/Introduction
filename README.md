@@ -1,6 +1,6 @@
 # Introduction
 
-Alfred is 2021 Clever Celebration campervan based on a Fiat Ducato.
+Alfred is a 2021 Clever Celebration campervan based on a Fiat Ducato.
 
 On the following pages I have documented our setup. From a simple step to get in bed easier to our smartcamper system based on Home Assistant.
 <br>
