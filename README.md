@@ -28,6 +28,14 @@ On the following pages I have documented our setup. From a simple step to get in
 <br>
 <br>
 
+## ❄️ The SmartFridge 🧊
+
+<a href="https://github.com/Naaf3/smartfridge/blob/main/README.md">The SmartFridge</a>
+<br>
+<br>
+<br>
+<br>
+
 If you like my work and want to support me:
 
 <a href="https://www.paypal.com/donate/?hosted_button_id=H9TBKLCDM8J2J">
